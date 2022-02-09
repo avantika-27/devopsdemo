@@ -1,1 +1,2 @@
 This is demo of git on 2 febuary 2022
+This is Day 2 of devops lab 9 febuary 2022
